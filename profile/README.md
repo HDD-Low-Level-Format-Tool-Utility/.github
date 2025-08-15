@@ -18,7 +18,7 @@ HDD Low Level Format Tool is a **portable** application — no installation requ
 ---
 
 <p align="center">
-  <img src="https://i.postimg.cc/Y9cnw9G7/hdd-low-level-format-tool-main.jpg" alt="HDD Low Level Format Tool Interface" width="700">
+  <img src="https://www.reneelab.com/wp-content/uploads/sites/2/2019/09/hdd-low-level-format-tool-4.40.png" alt="HDD Low Level Format Tool Interface" width="700">
 </p>
 
 ---
@@ -73,7 +73,7 @@ By performing operations at the lowest possible level, HDD Low Level Format Tool
 ---
 
 <p align="center">
-  <img src="https://i.postimg.cc/x13Vm1br/hdd-low-level-format-tool-scan.jpg" alt="HDD Low Level Format Tool Scan Example" width="700">
+  <img src="https://www.icare-recovery.com/images/howto/hdd-low-level-fomat.png" alt="HDD Low Level Format Tool Scan Example" width="700">
 </p>
 
 ---
